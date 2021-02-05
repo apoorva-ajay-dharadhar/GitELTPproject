@@ -10,3 +10,4 @@ Change4 - commit with message as "Change4 in File1 to test push"
 
 Change5 - commit with message as "Change5 in File1 to test pull"
 
+Change6 - commit with message as "Change6 in File1 to test pull on my own"
