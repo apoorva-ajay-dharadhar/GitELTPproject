@@ -14,7 +14,7 @@ Change5: commit with message as "Change5 in File1 to test pull".
 change 5.1: Hello there random message
 Change6: commit with message as "Change6 in File1 to test pull on my own"
 
-Change7: commit with message as "Change7 in File1 to test no-conflict rebase".
+Change711: commit with message as "Change7 in File101 to testx no-conflict rebase...............//".
 
 Change8: commit with message as "Change8 in File1 from remote side to test rebase".
 Change 8.1: Random change at a different space from remote.
