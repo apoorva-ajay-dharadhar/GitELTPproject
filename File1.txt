@@ -3,7 +3,7 @@ Hello World!!!
 Change1: commit with message as “Change1 in File1”.
 
 Change2: commit with message as “Change2 in File1”.
-
+change 2.5: change made at 2.5 from remote side for testing 3-Way merge
 Change3: commit with message as "Change3 in File1 to test push".
 
 Change4: commit with message as "Change4 in File1 to test push".
