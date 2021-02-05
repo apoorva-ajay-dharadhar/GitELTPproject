@@ -25,6 +25,6 @@ Change10: commit with message as "Change10 in File1 from remote side to test 3-w
 
 Change 11: commit for change 11.
 
-change12: message plain and simple for merging operation without conflict
+change12: Message plain and simple for merging operation without conflict
 
 
