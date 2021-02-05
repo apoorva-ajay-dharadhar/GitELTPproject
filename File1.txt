@@ -1,15 +1,18 @@
-Hello World
+Hello World!!!
 
-Change1 – commit with message as “Change1 in File1”
+Change1 – commit with message as “Change1 in File1”.
 
-Change2 – commit with message as “Change2 in File1”
+Change2 – commit with message as “Change2 in File1”.
 
-Change3 - commit with message as "Change3 in File1 to test push"
+Change3 - commit with message as "Change3 in File1 to test push".
 
-Change4 - commit with message as "Change4 in File1 to test push"
+Change4 - commit with message as "Change4 in File1 to test push".
 
-Change5 - commit with message as "Change5 in File1 to test pull"
+Change5 - commit with message as "Change5 in File1 to test pull".
 
 Change6 - commit with message as "Change6 in File1 to test pull on my own"
 
 Change7 - commit with message as "Change7 in File1 to test no-conflict rebase".
+
+Change8 - commit with message as "Change7 in File1 from remote side to test rebase".
+
