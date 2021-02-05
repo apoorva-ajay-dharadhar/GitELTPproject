@@ -7,4 +7,6 @@ Change2 – commit with message as “Change2 in File1”
 Change3 - commit with message as "Change3 in File1 to test push"
 
 Change4 - commit with message as "Change4 in File1 to test push"
+
+Change5 - commit with message as "Change5 in File1 to test pull"
 "
