@@ -16,3 +16,4 @@ Change7 - commit with message as "Change7 in File1 to test no-conflict rebase".
 
 Change8 - commit with message as "Change7 in File1 from remote side to test rebase".
 
+Change10: commit with message as "Change10 in File1 from remote side to test 3-way merge"
