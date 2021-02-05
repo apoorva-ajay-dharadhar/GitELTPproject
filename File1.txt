@@ -2,7 +2,7 @@ Hello World!!!
 
 Change1: commit with message as “Change1 in File1 and again some change for demonstrating with conflict rebase”.
 
-change1.5: random change at place 1.5 from local for 3Way merge operation
+change1.5: random change at place 1.5 from local for 3Way merge operations .
 Change2: commit with message as “Change2 in File1”.
 change 2.5: change made at 2.5 from remote side for testing 3-Way merge
 Change3: commit with message as "Change3 in File1 to test push".
