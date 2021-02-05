@@ -3,3 +3,8 @@ Hello World
 Change1 – commit with message as “Change1 in File1”
 
 Change2 – commit with message as “Change2 in File1”
+
+Change3 - commit with message as "Change3 in File1 to test push"
+
+Change4 - commit with message as "Change4 in File1 to test push"
+"
