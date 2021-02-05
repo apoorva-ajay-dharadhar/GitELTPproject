@@ -1,7 +1,7 @@
 Hello World!!!
 
 Change1: commit with message as “Change1 in File1”.
-
+change1.5: random change at place 1.5 from local for 3Way merge operation
 Change2: commit with message as “Change2 in File1”.
 
 Change3: commit with message as "Change3 in File1 to test push".
