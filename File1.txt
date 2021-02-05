@@ -20,3 +20,5 @@ Change9: commit with message as "Change9 in File1 from local side to test 3-way 
 
 Change10: commit with message as "Change10 in File1 from remote side to test 3-way merge"
 
+change12: message plain and simple for merging operation without conflict
+
