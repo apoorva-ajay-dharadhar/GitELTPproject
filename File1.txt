@@ -1,6 +1,7 @@
 Hello World!!!
 
-Change1.0: Commit with message as “Change-1 in File-1 and against some change for demonstrating with conflict rebasing operation”.
+
+Change1.0: Commit with message as “Change-1 in File-1 and again some change for demonstrating with conflict rebase operation”.
 
 change1.5: random change at place 1.5 from local for 3Way merge operations .
 
